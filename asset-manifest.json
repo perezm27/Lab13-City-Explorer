@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Lab13-City-Explorer/static/css/main.373fedae.chunk.css",
+    "main.js": "/Lab13-City-Explorer/static/js/main.dc4f2f80.chunk.js",
+    "main.js.map": "/Lab13-City-Explorer/static/js/main.dc4f2f80.chunk.js.map",
+    "runtime~main.js": "/Lab13-City-Explorer/static/js/runtime~main.351a8f07.js",
+    "runtime~main.js.map": "/Lab13-City-Explorer/static/js/runtime~main.351a8f07.js.map",
+    "static/js/2.c561ea6c.chunk.js": "/Lab13-City-Explorer/static/js/2.c561ea6c.chunk.js",
+    "static/js/2.c561ea6c.chunk.js.map": "/Lab13-City-Explorer/static/js/2.c561ea6c.chunk.js.map",
+    "index.html": "/Lab13-City-Explorer/index.html",
+    "precache-manifest.913d7e9838f9ca003bf040626ebd474b.js": "/Lab13-City-Explorer/precache-manifest.913d7e9838f9ca003bf040626ebd474b.js",
+    "service-worker.js": "/Lab13-City-Explorer/service-worker.js",
+    "static/css/main.373fedae.chunk.css.map": "/Lab13-City-Explorer/static/css/main.373fedae.chunk.css.map"
+  }
+}
